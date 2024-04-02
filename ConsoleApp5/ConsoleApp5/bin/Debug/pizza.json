@@ -1,0 +1,290 @@
+[
+    {
+      "id_product": 1,
+      "name_product": "Песто",
+      "category_id": 1,
+      "description": "Цыпленок, соус песто, кубики брынзы, томаты, моцарелла, соус альфредо",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/pesto.png"
+    },
+    {
+      "id_product": 2,
+      "name_product": "Ветчина и сыр",
+      "category_id": 1,
+      "description": "Ветчина, моцарелла, соус альфредо",
+      "price": 295,
+      "image": "http://188.234.244.32:8090/images/product/sir.png"
+    },
+    {
+      "id_product": 3,
+      "name_product": "Карбонара",
+      "category_id": 1,
+      "description": "Бекон, сыры чеддер и пармезан, моцарелла, томаты, красный лук, чеснок, соус альфредо, итальянские травы",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/karbonara.png"
+    },
+    {
+      "id_product": 4,
+      "name_product": "Пепперони",
+      "category_id": 1,
+      "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/peperony.png"
+    },
+    {
+      "id_product": 5,
+      "name_product": "Маргарита",
+      "category_id": 1,
+      "description": "Увеличенная порция моцареллы, томаты, итальянские травы, томатный соус",
+      "price": 345,
+      "image": "http://188.234.244.32:8090/images/product/margarita.png"
+    },
+    {
+      "id_product": 6,
+      "name_product": "Гавайская",
+      "category_id": 1,
+      "description": "Ветчина, ананасы, моцарелла, томатный соус",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/gavaiskaya.png"
+    },
+    {
+      "id_product": 7,
+      "name_product": "Диабло",
+      "category_id": 1,
+      "description": "Острая чоризо, острый перец халапеньо, соус барбекю, митболы, томаты, сладкий перец, красный лук, моцарелла, томатный соус",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/diablo.png"
+    },
+    {
+      "id_product": 8,
+      "name_product": "Додо",
+      "category_id": 1,
+      "description": "Бекон, митболы, пикантная пепперони, моцарелла, томаты, шампиньоны, сладкий перец, красный лук, чеснок, томатный соус",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/dodo.png"
+    },
+    {
+      "id_product": 9,
+      "name_product": "Сырный цыпленок",
+      "category_id": 1,
+      "description": "Цыпленок, моцарелла, сыры чеддер и пармезан, сырный соус, томаты, соус альфредо, чеснок",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/chicken.png"
+    },
+    {
+      "id_product": 10,
+      "name_product": "Аррива",
+      "category_id": 1,
+      "description": "Цыпленок, острая чоризо, соус бургер, сладкий перец, красный лук, томаты, моцарелла, соус ранч, чеснок",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/arriva.png"
+    },
+    {
+      "id_product": 11,
+      "name_product": "Мясная",
+      "category_id": 1,
+      "description": "Цыпленок, ветчина, пикантная пепперони, острая чоризо, моцарелла, томатный соус",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/myaso.png"
+    },
+    {
+      "id_product": 12,
+      "name_product": "Овощи и грибы",
+      "category_id": 1,
+      "description": "Шампиньоны, томаты, сладкий перец, красный лук, маслины, кубики брынзы, моцарелла, томатный соус, итальянские травы",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/vegetables.png"
+    },
+    {
+      "id_product": 13,
+      "name_product": "Фристайло",
+      "category_id": 1,
+      "description": "Томаты, сладкий перец, красный лук, соус песто, митболы, моцарелла, томатный соус",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/fristailo.png"
+    },
+    {
+      "id_product": 14,
+      "name_product": "Четыре сыра",
+      "category_id": 1,
+      "description": "Сыр блю чиз, сыры чеддер и пармезан, моцарелла, соус альфредо",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/fourchees.png"
+    },
+    {
+      "id_product": 15,
+      "name_product": "Пицца-пирог",
+      "category_id": 1,
+      "description": "Ананасы, брусника, сгущенное молоко",
+      "price": 345,
+      "image": "http://188.234.244.32:8090/images/product/cake.png"
+    },
+    {
+      "id_product": 16,
+      "name_product": "Мексиканская",
+      "category_id": 1,
+      "description": "Цыпленок, острый перец халапеньо, соус сальса, томаты, сладкий перец, красный лук, моцарелла, томатный соус",
+      "price": 445,
+      "image": "http://188.234.244.32:8090/images/product/meksico.png"
+    },
+    {
+      "id_product": 17,
+      "name_product": "Мишка Томми",
+      "category_id": 1,
+      "description": "Цыпленок, картошечка, томаты, моцарелла, томатный соус",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/tommy.png"
+    },
+    {
+      "id_product": 18,
+      "name_product": "Мишка Альфи",
+      "category_id": 1,
+      "description": "Ветчина, картошечка, моцарелла, соус альфредо",
+      "price": 395,
+      "image": "http://188.234.244.32:8090/images/product/alfi.png"
+    },
+    {
+      "id_product": 19,
+      "name_product": "Coca-Cola",
+      "category_id": 2,
+      "description": "0,5 л",
+      "price": 99,
+      "image": "http://188.234.244.32:8090/images/product/coca.png"
+    },
+    {
+      "id_product": 20,
+      "name_product": "Sprite",
+      "category_id": 2,
+      "description": "0,5 л",
+      "price": 99,
+      "image": "http://188.234.244.32:8090/images/product/sprite.png"
+    },
+    {
+      "id_product": 21,
+      "name_product": "Fanta",
+      "category_id": 2,
+      "description": "0,5 л",
+      "price": 99,
+      "image": "http://188.234.244.32:8090/images/product/fanta.png"
+    },
+    {
+      "id_product": 22,
+      "name_product": "FuzeTea",
+      "category_id": 2,
+      "description": "0,5 л",
+      "price": 99,
+      "image": "http://188.234.244.32:8090/images/product/fuzetea.png"
+    },
+    {
+      "id_product": 23,
+      "name_product": "BonAqua",
+      "category_id": 2,
+      "description": "0,5 л",
+      "price": 69,
+      "image": "http://188.234.244.32:8090/images/product/bonaqua.png"
+    },
+    {
+      "id_product": 24,
+      "name_product": "Апельсиновый сок Rich",
+      "category_id": 2,
+      "description": "1 л",
+      "price": 159,
+      "image": "http://188.234.244.32:8090/images/product/richorange.png"
+    },
+    {
+      "id_product": 25,
+      "name_product": "Яблочный сок Rich",
+      "category_id": 2,
+      "description": "1 л",
+      "price": 159,
+      "image": "http://188.234.244.32:8090/images/product/richapple.png"
+    },
+    {
+      "id_product": 26,
+      "name_product": "Вишневый нектар Rich",
+      "category_id": 2,
+      "description": "1 л",
+      "price": 159,
+      "image": "http://188.234.244.32:8090/images/product/richv.png"
+    },
+    {
+      "id_product": 27,
+      "name_product": "Шоколадный молочный коктейль",
+      "category_id": 3,
+      "description": "Сладкий напиток на основе молока и мороженого с фирменным какао",
+      "price": 159,
+      "image": "http://188.234.244.32:8090/images/product/kokteilchok.png"
+    },
+    {
+      "id_product": 28,
+      "name_product": "Молочный коктейль с печеньем Орео",
+      "category_id": 3,
+      "description": "Напиток из молока и мороженого с добавлением дробленого печенья «Орео»",
+      "price": 179,
+      "image": "http://188.234.244.32:8090/images/product/kokteilmilk.png"
+    },
+    {
+      "id_product": 29,
+      "name_product": "Вишневый пирог",
+      "category_id": 3,
+      "description": "Это не просто десерт, а вишенка на торте! Творожно-песочное тесто с ягодами, заварным кремом и лепестками миндаля.",
+      "price": 129,
+      "image": "http://188.234.244.32:8090/images/product/cherry.png"
+    },
+    {
+      "id_product": 30,
+      "name_product": "Чизкейк Нью-Йорк",
+      "category_id": 3,
+      "description": "Мы перепробовали тысячу десертов и наконец нашли любимца гостей — нежнейший творожный чизкейк.",
+      "price": 129,
+      "image": "http://188.234.244.32:8090/images/product/chizkeyk.png"
+    },
+    {
+      "id_product": 31,
+      "name_product": "Пончики Тройной шоколад и Клубничный",
+      "category_id": 3,
+      "description": "Такие разные, но вместе. Один пончик с шоколадной начинкой и посыпкой, а другой с клубничной начинкой внутри и яркой посыпкой снаружи",
+      "price": 199,
+      "image": "http://188.234.244.32:8090/images/product/ponchik.png"
+    },
+    {
+      "id_product": 32,
+      "name_product": "2 Маффина Три шоколада",
+      "category_id": 3,
+      "description": "Основное блюдо заканчивается, начинаются маффины с начинкой на шоколадной основе с кубиками белого и молочного шоколада",
+      "price": 199,
+      "image": "http://188.234.244.32:8090/images/product/maffins.png"
+    },
+    {
+      "id_product": 33,
+      "name_product": "Фонданы",
+      "category_id": 3,
+      "description": "Четверо из пяти гостей говорят «Oh la la!», когда едят этот французский десерт с хрустящей корочкой и топленой шоколадной начинкой.",
+      "price": 289,
+      "image": "http://188.234.244.32:8090/images/product/fondans.png"
+    },
+    {
+      "id_product": 34,
+      "name_product": "Бруслетики, 16 шт",
+      "category_id": 3,
+      "description": "Может ли брусника быть сладкой, а сгущенное молоко кисленьким? Конечно, да. В бруслетиках закрутился яркий микс вкусов.",
+      "price": 195,
+      "image": "http://188.234.244.32:8090/images/product/bruslets.png"
+    },
+    {
+      "id_product": 35,
+      "name_product": "Рулетики с корицей, 16 шт",
+      "category_id": 3,
+      "description": "Десерт, одобренный нашими бабушками. Горячие сладкие рулетики с пряной корицей и сахаром.",
+      "price": 195,
+      "image": "http://188.234.244.32:8090/images/product/ruletiks.png"
+    },
+    {
+      "id_product": 36,
+      "name_product": "Сырники с малиновым вареньем",
+      "category_id": 3,
+      "description": "Любимый десерт многих наших гостей — румяные сырники из печи. Такие нежные, в меру сладкие и напоминающие детство, 4 шт.",
+      "price": 289,
+      "image": "http://188.234.244.32:8090/images/product/sirnik.png"
+    }
+  ]
