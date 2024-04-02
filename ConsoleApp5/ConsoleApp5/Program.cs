@@ -143,14 +143,14 @@ namespace ConsoleApp4
             Console.WriteLine("----------------------------------");
             List<Product> product8 = product.Where(x => x.id_product == 1).ToList();
             List<string> ingridients=new List<string>();
-            string proverka=String.Empty;
+            string lastproverka=String.Empty;
             foreach(var item in product8)
             {
-                proverka += item.description;               
+                lastproverka += item.description;               
             }
-            for (int i = 0; i < proverka.Split().Length; i++)
+            for (int i = 0; i < lastproverka.Split().Length; i++)
             {
-                ingridients.Add(proverka.Split()[i]);
+                ingridients.Add(lastproverka.Split()[i]);
             }
             string[] result=ingridients.ToArray();
             foreach (var item in result)
