@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,14 +14,46 @@ namespace ConsoleApp4
         {
             string data = File.ReadAllText("pizza.json");
             var product = JsonConvert.DeserializeObject<List<Product>>(data);
-            Zadanie1(product);
-            Zadanie2(product);
-            Zadanie3(product);
-            Zadanie4(product);
-            Zadanie5(product);
-            Zadanie6(product);
-            Zadanie7(product);
-            Zadanie8(product);
+            Console.WriteLine("Введите номер задания которое хотите получить:");
+            Console.WriteLine("1-Вывести всю информацию о продуктах, принадлежащих первой  категории товаров");
+            Console.WriteLine("2-Вывести информацию о названии продуктов");
+            Console.WriteLine("3-Вывести всю информацию о продуктах, цена которых больше 500");
+            Console.WriteLine("4-Вывести продукты, в состав которых входит чеснок.");
+            Console.WriteLine("5-Вывести картинку продукта с заданным идентификатором.");
+            Console.WriteLine("6-Вывести первый продукт, в состав которого сходит заданный ингредиент");
+            Console.WriteLine("7-Посчитать сумму продуктов, идентификаторы которых задаст пользователь при оформлении заказа");
+            Console.WriteLine("8-Сформировать массив из ингредиентов заданного продукта");
+            string a=Console.ReadLine();
+            bool b=int.TryParse(a, out int c);
+            if (b)
+            {
+                switch (c)
+                {
+                    case 1:
+                        Zadanie1(product);
+                        break;
+                    case 2:
+                        Zadanie2(product);
+                        break;
+                    case 3:
+                        Zadanie3(product); break;
+                    case 4:
+                        Zadanie4(product); break;
+                    case 5:
+                        Zadanie5(product); break;
+                    case 6:
+                        Zadanie6(product); break;
+                    case 7:
+                        Zadanie7(product); break;
+                    case 8:
+                        Zadanie8(product); break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Вы ввели не число");
+            }
+
         }
 
         private static void Zadanie8(List<Product> product)
